@@ -5,8 +5,12 @@
 **Executive Summary**  
 The Food Sales Dataset project involves analyzing sales data from various restaurants, sales channels, and categories to uncover insights into peak sales hours, profit margins, and overall performance. Using Excel, the project aims to optimize sales strategies, improve restaurant operations, and identify high-performing categories and sales channels.
 
+---
+
 **Business Problem**  
 The business faced difficulties in understanding the dynamics of sales channels, identifying peak hours, and analyzing profit margins across different restaurants and categories. There was a lack of actionable insights into which sales channels and hours drove profits, leading to missed opportunities for improving sales and operational efficiency.
+
+---
 
 **Objective**  
 The primary objective of this project was to:  
@@ -17,8 +21,12 @@ The primary objective of this project was to:
 - Evaluate performance by **restaurant** and **category** to identify top-performing products and services.  
 - Provide actionable insights to **optimize profit margins** and **sales strategies**.
 
+---
+
 **Tools I Use**  
 **Excel**: For data cleaning, analysis, and creating visualizations like pivot tables, charts, and dashboards.
+
+---
 
 **Suggestions**  
 - Increase staff and streamline kitchen processes during **peak hours** to handle high order volumes efficiently.  
@@ -28,8 +36,12 @@ The primary objective of this project was to:
 - Implement a system for collecting and analyzing **customer feedback** to improve services and offerings.  
 - Promote **high-profit products** as premium offerings and introduce similar items to capitalize on their success.
 
+---
+
 **Challenges**  
 A key challenge in this project was effectively managing and analyzing large datasets within Excel. Ensuring accurate categorization of sales by restaurant, category, and sales channel required careful data cleaning. Additionally, identifying **peak sales hours** and profit margins from the dataset involved complex analysis and interpretation, which required advanced Excel functions and formulas.
+
+---
 
 **Learnings**  
 - Gained experience in using **Excel** for advanced data analysis, including pivot tables, conditional formatting, and advanced formulas to derive insights.  
